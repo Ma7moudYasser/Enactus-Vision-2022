@@ -626,8 +626,8 @@ https://www.tooplate.com/view/2120-ben-resume
 
  marquee {
    margin-top: 100px;
-   font-size: 1.5em;
+   font-size: 2em;
    font-weight: bold;
-   font-style: italic;
-   font-family: fantasy;
+   font-style: bold;
+   font-family: monospace;
  }
